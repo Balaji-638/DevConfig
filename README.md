@@ -1,2 +1,2 @@
 # DevConfig
-Creating to study CI/CD in DevOps
+Created to study CI/CD in DevOps
